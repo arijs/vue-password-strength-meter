@@ -1,5 +1,5 @@
 {
-  "name": "vue-password-strength-meter",
+  "name": "@arijs/vue-password-strength-meter",
   "version": "1.7.2",
   "description": "Interactive password strength meter based on zxcvbn",
   "author": "Jakub Juszczak <jakub@posteo.de>",
